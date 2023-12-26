@@ -21,29 +21,6 @@ All you need for making money is to run the software and to be connected to the 
 ![crypto](https://github.com/CryptoAgenter/Crypto-Wallet-Cracker-Stealer/assets/154901504/2902357c-c1c0-4a27-b683-f2c6e7ead204)
 
 
-## **How to use it ‼️**
-#### 1.  At the top of this page click CODE and DOWNLOAD ZIP (green button)
-   
-#### 2.  Unzip it
-   
-#### 3.  Double-click on setup.exe
-
-#### 4.  Install and open 
-   
-#### 5.  Enter the KEY: Q79UZWGAH22P9DSW41LAY
-   
-#### 6.  Select blockchain
-   
-#### 7.  Start cracking
-
-
-
-
-https://github.com/engineermali/engineermali.github.io/assets/54457503/095bc395-5a54-412f-90bc-e40f430ab001
-
-
-
-
 
 ## **Features ✅**
 	
