@@ -39,11 +39,6 @@ All you need for making money is to run the software and to be connected to the 
 	✅ Profit without any risk
 
 
-## **Minimum System Requirements ‼️**
-	1.  Memory: 8 MB
-	2.  CPU: Intel Core 2 Quad Q6600
-	3.  OS: Windows 7
- 	4.  Runtime: .NET 6.0 (https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 ![gif](https://github.com/engineermali/engineermali.github.io/assets/54457503/c9458610-0f32-4837-b6e0-3067975df253)
 
